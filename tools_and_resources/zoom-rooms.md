@@ -38,6 +38,18 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Moon
 - Sun
 
+**San Diego Beaches**
+- Ocean Beach
+- Pacific Beach
+- Mission Beach
+- Torrey Pines Beach
+- Solana Beach
+- Imperial Beach
+- Coronado Beach
+- La Jolla Shores Beach
+- Sunset Cliffs Beach
+- Windansea Beach
+
 **Cartoon Locations**
 - Wonderland
 - The Hundred Acre Woods
