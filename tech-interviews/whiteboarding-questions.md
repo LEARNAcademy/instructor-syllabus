@@ -69,7 +69,9 @@ As a developer you are tasked with calculating some information for a farmer. Th
 
 INSTRUCTOR'S NOTES:
 ```javascript
-const totalLegs = (chicks, goats, horses) => chicks*2 + goats*4 + horses*4
+const totalLegs = (chicks, goats, horses) => {
+  return chicks * 2 + goats * 4 + horses * 4
+}
 // Most people will overthink this one!
 console.log(totalLegs(5, 6, 3))
 ```
