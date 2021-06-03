@@ -205,16 +205,15 @@ TECH QUESTIONS:
 PROMPT:  
 (Part 1) As a developer, you have been tasked with creating a database table for a client who works in a greenhouse and needs to keep track of the plants for sale. What columns would you recommend to your client to have in the plant table? (Open to interpretation - just an exercise in thinking through a problem. Optional stretch: What data type would each column have?)
 
-(Part 2) Write a SQL query that will return how many plants in the greenhouse are in the category succulents.
+(Part 2) Write a SQL query that will return all the plants that start with the letter p.
 
 INSTRUCTOR'S NOTES:  
 Possible columns include plant species name, category, sunlight needs, price, pot size, projected growth, humidity needs, recommended watering/fertilizer schedule... The goal is to get them asking questions and doing some creative thinking.
 
 ```sql
-SELECT plant_category, count(plant_type)
+SELECT plant_species
 FROM plant
-WHERE plant_category='succulent'
-GROUP BY plant_category
+WHERE plant_species LIKE 'P%'
 ```
 
 [ Back to the Top ](#white-board-exercises)
