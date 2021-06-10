@@ -223,8 +223,8 @@ WHERE plant_species LIKE 'P%'
 **Student 1:**  
 TECH QUESTIONS:  
 1) What makes you a good teammate?  
-2) What is the difference between a JavaScript function using the keyword function and a function using the fat arrow syntax?  
-3) How would you determine if a number is prime?
+2) What is the difference between a JavaScript function using the keyword function and a function using the arrow syntax?  
+3) Explain how you would write code to determine if a number is prime.
 
 PROMPT:  
 Write a function that takes in a string and checks if the string is a palindrome. (Can be done in JavaScript or Ruby)
