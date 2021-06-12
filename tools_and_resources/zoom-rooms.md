@@ -87,13 +87,13 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Notre Dame
 
 **San Diego Tech Companies**
-- Qualcomm
-- MindTouch
+- WowYow
 - Measurabl
-- Mindgruve
-- Zeeto
+- Vizer
 - Q-Centrix
-- Tealium
+- LeaseLabs
+- Pack Digital
+- Kitu System
 - SOCi
 - Zeal
 - Notch8
