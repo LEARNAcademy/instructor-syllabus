@@ -105,7 +105,7 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Ragdoll
 - Bengal
 - Sphynx
-- Abyssinian
+- Tabby
 - Bombay
 - Himalayan
 - Main Coon
