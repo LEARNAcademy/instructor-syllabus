@@ -344,6 +344,38 @@ const squaredAscending = (array) => {
 }
 ```
 
+```ruby
+def square_ascending array
+    new_array = array.map! do |value|
+    value * value
+    end
+    new_array.sort
+end
+```
+Big - O Notation
+
+```javascript
+const sortedSquaredArray = (array) => {
+	const sortedSquares = new Array(array.length).fill(0)
+	let smallerValueIndex = 0;
+	let largerValueIndex = array.length - 1;
+	for (let index = array.length - 1; index >= 0; index--){
+		const smallerValue = array[smallerValueIndex];
+		const largerValue = array[largerValueIndex]
+		if (Math.abs(smallerValue) > Math.abs(largerValue)) {
+			sortedSquares[index] = smallerValue * smallerValue;
+			smallerValueIndex++;
+		} else {
+			sortedSquares[index] = largerValue * largerValue;
+			largerValueIndex--;
+		}
+	}
+	return sortedSquares
+}
+```
+
+
+
 **Student 2:**  
 TECH QUESTION:  
 1) What does being a life-long learner mean to you?   
