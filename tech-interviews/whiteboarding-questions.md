@@ -10,6 +10,7 @@ We introduce white boarding during the second week of the class.
 - [ Week 6: Full-stack Rails ](#week-6-full-stack-rails)
 - [ Week 7: PD Week Technical Interviews ](./pd-week-tech-interviews.md/#pd-week-technical-interviews)
 - [ Week 8: Cat Tinder ](#week-8-cat-tinder)
+- [ Week 9: Apartment App ](#week-9-apartment-app)
 - [ Great Resource ](https://www.interviewcake.com/coding-interview-tips) for technical interviews
 
 ### Week 2: Intro to JavaScript
@@ -323,3 +324,48 @@ INSTRUCTOR'S NOTES:
 The cards function is shuffling an array based on the random number being positive or negative.
 
 [ Back to the Top ](#white-board-exercises)
+
+### Week 9: Apartment App
+
+**Student 1:**    
+TECH QUESTION:  
+1) What does being a full-stack developer mean to you? 
+2) What is the difference between React and Ruby on Rails?
+3) What does the difference between authorization and authentication?  
+
+
+PROMPT:  
+Create a function that takes in an array of numbers and returns an array of the numbers squared and in ascending order. (Can be done in JavaScript or Ruby)
+
+INSTRUCTOR'S NOTES:  
+```javascript
+const squaredAscending = (array) => {
+  return array.map(value => value**2).sort((a, b) => a - b)
+}
+```
+
+**Student 2:**  
+TECH QUESTION:  
+1) What does being a life-long learner mean to you?   
+2) What does it mean to have a full-stack application?
+3) Describe one way to create protected routes in an application.
+
+PROMPT:   
+Create a function that takes in a string of a single word and returns the middle letter. (Can be done in JavaScript or Ruby)
+
+INSTRUCTOR'S NOTES:   
+The code prompt can be made simplier by giving the student either an even or odd length string.
+
+```javascript
+const getMiddle = (string) => {
+  let mid = string.length / 2
+  if(string.length%2 === 0){
+    return string[mid - 1] + string[mid]
+  } else {
+    return string[Math.floor(mid)]
+  }
+}
+```
+
+[ Back to the Top ](#white-board-exercises)
+
