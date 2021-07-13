@@ -26,6 +26,9 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Reptile Mesa
 - River Hippo Habitat
 - Sun Bear Forest
+- Acacia Woodland
+- Absolutely Apes
+- Koalafornia
 - Aviary
 
 **Planets**
