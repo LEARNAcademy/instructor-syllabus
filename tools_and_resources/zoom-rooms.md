@@ -42,6 +42,8 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Pluto
 - Moon
 - Sun
+- Titan
+- Io
 
 **San Diego Beaches**
 - Ocean Beach
