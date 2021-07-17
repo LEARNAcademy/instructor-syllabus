@@ -32,6 +32,7 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Aviary
 
 **Planets**
+- Sun
 - Mercury
 - Venus
 - Earth
@@ -41,9 +42,9 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Neptune
 - Pluto
 - Moon
-- Sun
-- Titan
-- Io
+- Titan (Saturn)
+- Io (Jupiter)
+- Europa (Jupiter)
 
 **San Diego Beaches**
 - Ocean Beach
