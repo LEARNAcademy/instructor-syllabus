@@ -330,7 +330,7 @@ The cards function is shuffling an array based on the random number being positi
 **Student 1:**    
 TECH QUESTION:  
 1) What does being a full-stack developer mean to you? 
-2) What is the difference between React and Ruby on Rails?
+2) What is your favorite thing about JavaScript?
 3) What does the difference between authorization and authentication?  
 
 
@@ -380,7 +380,7 @@ const sortedSquaredArray = (array) => {
 TECH QUESTION:  
 1) What does being a life-long learner mean to you?   
 2) What does it mean to have a full-stack application?
-3) Describe one way to create protected routes in an application.
+3) What is your least favorite thing about JavaScript?
 
 PROMPT:   
 Create a function that takes in a string of a single word and returns the middle letter. (Can be done in JavaScript or Ruby)
