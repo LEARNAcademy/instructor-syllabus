@@ -62,7 +62,7 @@ console.log(makeEmCaps(arrayOfWOrds))
 **Student 1:**  
 TECH QUESTIONS:  
 1) What are your strengths as a developer?  
-2) What is the difference between git and GitHub?  
+2) What is the difference between equality operators and relational operators?  
 3) What is a branch?  
 
 PROMPT:  
@@ -80,7 +80,7 @@ console.log(totalLegs(5, 6, 3))
 **Student 2:**  
 TECH QUESTIONS:  
 1) What are your weaknesses as a developer?  
-2) What is the difference between null, undefined, false, NaN?  
+2) What is the difference between null and undefined?  
 3) Compare and contrast arrays and objects.  
 
 PROMPT:  
