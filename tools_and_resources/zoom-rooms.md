@@ -69,6 +69,9 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Radiator Springs
 - Halloween Town
 - Monstropolis
+- Toontown
+- Te Fiti
+- Zootopia
 
 **California National Parks**
 - Yosemite
