@@ -84,6 +84,9 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Lassen Volcanic
 - Point Reyes
 - Death Valley
+- Anza-Borrego
+- Palomar Mountain
+- El Presidio
 
 **Famous Landmarks**
 - Eiffel Tower
