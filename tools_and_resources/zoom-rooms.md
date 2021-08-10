@@ -99,6 +99,9 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Machu Picchu
 - Easter Island Moai
 - Notre Dame
+- Stonehenge
+- Golden Gate Bridge
+- Acropolis
 
 **San Diego Tech Companies**
 - WowYow
