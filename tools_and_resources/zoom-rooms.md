@@ -111,6 +111,9 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - LeaseLabs
 - Pack Digital
 - Kitu System
+- Housecall Pro
+- Drata
+- Mitchell International
 - SOCi
 - Zeal
 - Notch8
@@ -126,6 +129,9 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Bombay
 - Himalayan
 - Main Coon
+- Bobtail
+- Calico
+- Tuxedo
 
 **Rooms in a House**
 - Dining Room
@@ -138,6 +144,9 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Office
 - Library
 - Family Room
+- Attic
+- Terrace
+- Study
 
 **Very Big Mountains**
 - Denali
