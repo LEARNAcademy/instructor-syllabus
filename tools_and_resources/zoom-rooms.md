@@ -15,6 +15,7 @@ Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be
 - Cortez Hill
 - Columbia
 - Seaport Village
+- Civic Core
 
 **Zoo Exhibits**
 - Tiger Trail
