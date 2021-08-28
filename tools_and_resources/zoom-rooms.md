@@ -1,5 +1,13 @@
 # Zoom Rooms
 
+Recurring meeting for cohort.
+
+Example:  
+Topic - Charlie Classroom
+Description - Charlie 2021 Cohort - Hopper Classroom
+Duration - 8:30 AM, 10 hours
+Recurrence - Weekly (M-F)
+
 Preset breakout rooms can be added to the reoccurring Zoom meeting. Rooms can be custom names. Below are some fun options.
 
 **Downtown(ish) San Diego Neighborhoods**
